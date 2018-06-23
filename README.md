@@ -3,13 +3,13 @@
 
 ### Analysis
 
-##### 1. Temperatures drop the further an area is from the equator. But due to the limitation of this data set observed only one time point during the year. Because, coastal locations tend to be cooler in summer and warmer in winter than places inland at the same latitude and altitude. I will be a better idea to drat the plot on a google map
+##### 1. Temperatures drop the further an area is from the equator. There is a limitation of this data set: observation only one time point during the year, and coastal locations tend to be cooler in summer and warmer in winter than places inland at the same latitude and altitude. It will be a better idea to draw the plot on a google map instead simply by latitude. 
 
-##### 2. Humidity doesn't have much correlation to latitude. Across all latitude in selected samples, the most populated humidity % falls under 50-100%. When it getting closer to North Pole, the humidity could have larger variance, could be as extreme as 0% or 100%. 
+##### 2. Humidity doesn't have much correlation to latitude. Across all latitudes in selected samples, the most populated humidity % falls between 50-100%. When it getting closer to 20 degrees North or 20 degrees South, the humidity could have larger variance, could be as extreme as 5% to 100%. 
 
-##### 3. The cloudiness are measured at every 5% level, meaning it could not shows consistent range like humidity or temperature. And the popularity are stay in 0%, 75%, and 90%. I might due to that, at certain latitude, oceans are more than continent, which tend to be less cloudy than oceans. 
+##### 3. The cloudiness are measured at every 5% level, meaning it could not shows consistent range like humidity or temperature. And the biggest popularities stay in 0%, 75%, and 90%. It might because at certain latitude, oceans are more than continent, which tend to be less cloudy than oceans.  
 
-##### 4. There are some correlation found between latitude and wind speed, but not very significant. Very fast wind speed are observed at very high latitude (50-80). The most common wind speed are under 10mph, very few cities has wind speed higher than 25, and those are all from High Latitude Northern Hemisphere.
+##### 4. There are some correlation found between latitude and wind speed, but not very significant. Very fast wind speed are observed at very high latitude (50-80). The most common wind speed are under 10mph, very few cities has wind speed higher than 25, and those are all from High Latitude both Northern Hemisphere, and South Hemisphere.
 
 
 
